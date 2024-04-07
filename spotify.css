@@ -46,7 +46,7 @@
 
 .library{
     background-color: #1a1a1a;
-    height: 56px;
+    height: 48px;
     width: 100%;
     padding: 8px 16px;
     margin-top: 8px;
@@ -228,7 +228,7 @@
 }
 .playlist{
     float: right;
-    height:618px;
+    height:610px;
     width:99.3%;
     background-color:#1a1a1a;
     border-radius: 8px;
